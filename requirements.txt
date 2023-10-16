@@ -1,4 +1,6 @@
 flask
 Flask-WTF
 flask-sqlalchemy
+Flask-Login
+flask-bcrypt
 email-validator
